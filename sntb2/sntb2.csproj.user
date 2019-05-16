@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\server\Obmen\26\|\\server\Obmen\11\|\\server\Obmen\1\|\\server\Obmen\test\|\\server\Obmen\attesst\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\server\Obmen\1\|\\server\Obmen\attesst\|\\server\Obmen\test2\|\\server\Obmen\ОАСУ\urman1\|\\server\Obmen\ОАСУ\for_sorevnovanie\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>ru-RU</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
